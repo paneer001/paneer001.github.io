@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Paneer's Blog
 
 You can use the [editor on GitHub](https://github.com/paneer001/paneer001.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
